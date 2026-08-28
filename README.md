@@ -1,24 +1,29 @@
+<!-- ===================== PREMIUM HERO ===================== -->
+
 <div align="center">
 
-<!-- ===================== HERO ===================== -->
+# 👋 Jibran Umar
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,45:302b63,100:24243e&text=Jibran%20Umar&fontSize=72&fontAlignY=38&fontColor=ffffff&desc=SEO%20Specialist%20%E2%80%A2%20AI%20%26%20Automation%20%E2%80%A2%20Web%20Developer&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Jibran Umar"/>
+### 🔎 SEO Specialist &nbsp;•&nbsp; 🤖 AI & Automation Explorer &nbsp;•&nbsp; 💻 Web Developer
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=850&lines=🔎+SEO+%26+Search+Optimization;🤖+Exploring+AI+%26+Automation;💻+Building+Practical+Web+Projects;⚡+Turning+Ideas+into+Working+Products;🚀+Learning.+Building.+Improving." alt="Typing Animation"/>
+**Building at the intersection of Search, AI & Technology.**
 
 <br/><br/>
 
 <a href="https://github.com/jibran-umar">
   <img src="https://img.shields.io/badge/GitHub-jibran--umar-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+
 <a href="https://www.linkedin.com/in/jibran-umar/">
   <img src="https://img.shields.io/badge/LinkedIn-Jibran%20Umar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+
 <a href="https://www.youtube.com/@JibranUmarofficial">
   <img src="https://img.shields.io/badge/YouTube-Jibran%20Umar-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
 </a>
+
 <a href="mailto:jibranumarseo1020@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
@@ -26,6 +31,14 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=jibran-umar&label=PROFILE+VIEWS&color=7B2FBE&style=for-the-badge" alt="Profile Views"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Learn. Build. Optimize. Evolve.
 
 </div>
 
